@@ -1,0 +1,537 @@
+# Translation of Plugins - CustMain - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - CustMain - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-09-21 10:55+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Language: ru_RU\n"
+"Project-Id-Version: Plugins - CustMain - Stable (latest release)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-09-21 10:54+0000\n"
+"Last-Translator: \n"
+"Language-Team: Русский\n"
+"X-Loco-Version: 2.4.3; wp-5.5.1"
+
+#: custmain.php:85
+msgid "cm-backup/ with 0755 rights."
+msgstr "cm-backup/ с правами 0755."
+
+#: custmain.php:139
+msgid "Customizations"
+msgstr "Кастомизации"
+
+#: custmain.php:140
+msgid "Logs"
+msgstr "Лог"
+
+#: custmain.php:141 custmain.php:187
+msgid "Import"
+msgstr "Импорт"
+
+#: custmain.php:150
+msgid "Export selected"
+msgstr "Экспорт выбранных"
+
+#: custmain.php:151 custmain.php:261 custmain.php:282 custmain.php:301
+msgid "Autorun settings"
+msgstr "Настройки автозапуска"
+
+#: custmain.php:152
+msgid "Run selected"
+msgstr "Запустить выбранные"
+
+#: custmain.php:153
+msgid "Delete selected"
+msgstr "Удалить выбранные"
+
+#: custmain.php:156
+msgid "Add new group"
+msgstr "Новая группа"
+
+#: custmain.php:162 includes/CustMainAjax.php:49 includes/CustMainAjax.php:327
+msgid "Uncategorized"
+msgstr "Без категории"
+
+#: custmain.php:173
+msgid "Download logs"
+msgstr "Скачать лог"
+
+#: custmain.php:177
+msgid "Type"
+msgstr "Тип"
+
+#: custmain.php:178
+msgid "Date & Time"
+msgstr "Дата и Время"
+
+#: custmain.php:179
+msgid "File name"
+msgstr "Имя файла"
+
+#: custmain.php:180
+msgid "Status"
+msgstr "Статус"
+
+#: custmain.php:185
+msgid "Paste the code from the CustMain export file"
+msgstr "Вставьте код из файла экспорта CustMain"
+
+#: custmain.php:193 custmain.php:216
+msgid "Cancel"
+msgstr "Отмена"
+
+#: custmain.php:194
+msgid "Run"
+msgstr "Запуск"
+
+#: custmain.php:202
+msgid "Finish"
+msgstr "Готово"
+
+#: custmain.php:206
+msgid "Autorun type"
+msgstr "Тип автозапуска"
+
+#: custmain.php:208
+msgid "On plugin update"
+msgstr "При обновлении плагина"
+
+#: custmain.php:209
+msgid "On theme update"
+msgstr "При обновлении темы"
+
+#: custmain.php:210
+msgid "By task scheduler"
+msgstr "По планировщику задач"
+
+#: custmain.php:212
+msgid "Select desired"
+msgstr "Выберите нужное"
+
+#: custmain.php:217
+msgid "Set"
+msgstr "Установить"
+
+#: custmain.php:229
+msgid "Group"
+msgstr "Группа"
+
+#: custmain.php:239
+msgid "File"
+msgstr "Файл"
+
+#: custmain.php:249
+msgid "Change"
+msgstr "Изменение"
+
+#: custmain.php:250
+msgid "Original"
+msgstr "Оригинал"
+
+#: custmain.php:251
+msgid "Replacement"
+msgstr "Замена"
+
+#: custmain.php:259
+msgid "Add new file"
+msgstr "Новый файл"
+
+#: custmain.php:260
+msgid "Export this group"
+msgstr "Экспорт группы"
+
+#: custmain.php:262
+msgid "Run this group"
+msgstr "Запустить группу"
+
+#: custmain.php:263
+msgid "Delete this group"
+msgstr "Удалить группу"
+
+#: custmain.php:271
+msgid "Group has been deleted"
+msgstr "Группа удалена"
+
+#: custmain.php:271 custmain.php:292 custmain.php:311
+msgid "Restore back"
+msgstr "Восстановить"
+
+#: custmain.php:279
+msgid "Add new change"
+msgstr "Новое изменение"
+
+#: custmain.php:280
+msgid "Revert this file"
+msgstr "Откатить файл"
+
+#: custmain.php:281
+msgid "Export this file"
+msgstr "Экспорт файла"
+
+#: custmain.php:283
+msgid "Run this file"
+msgstr "Запустить файл"
+
+#: custmain.php:284
+msgid "Delete this file"
+msgstr "Удалить файл"
+
+#: custmain.php:292
+msgid "File has been deleted"
+msgstr "Файл был удален"
+
+#: custmain.php:300
+msgid "Export this change"
+msgstr "Экспорт изменения"
+
+#: custmain.php:302
+msgid "Run this change"
+msgstr "Запустить изменение"
+
+#: custmain.php:303
+msgid "Delete this change"
+msgstr "Удалить изменение"
+
+#: custmain.php:311
+msgid "Change has been deleted"
+msgstr "Изменение было удалено"
+
+#: includes/CustMainScripts.php:158
+msgid "Group has been deleted!"
+msgstr "Группа была удалена!"
+
+#: includes/CustMainScripts.php:179
+msgid "Group has been restored!"
+msgstr "Группа была восстановлена!"
+
+#: includes/CustMainScripts.php:204
+msgid "File has been deleted!"
+msgstr "Файл был удален!"
+
+#: includes/CustMainScripts.php:225
+msgid "File has been restored!"
+msgstr "Файл был восстановлен!"
+
+#: includes/CustMainScripts.php:250
+msgid "Change has been deleted!"
+msgstr "Изменение было удалено!"
+
+#: includes/CustMainScripts.php:271
+msgid "Change has been restored!"
+msgstr "Изменения были восстановлены!"
+
+#: includes/CustMainScripts.php:292
+msgid "Original has been saved!"
+msgstr "Оригинал сохранен!"
+
+#: includes/CustMainScripts.php:313
+msgid "Replacement has been saved!"
+msgstr "Замена была сохранена!"
+
+#: includes/CustMainScripts.php:354 includes/CustMainScripts.php:403
+msgid "Title has been saved!"
+msgstr "Название сохранено!"
+
+#: includes/CustMainScripts.php:379
+msgid "File has been saved!"
+msgstr "Файл был сохранен!"
+
+#: includes/CustMainScripts.php:471
+msgid "File has been reverted!"
+msgstr "Изменения в файле были отменены!"
+
+#: includes/CustMainScripts.php:580
+msgid "Changes selected"
+msgstr "Изменений выбрано"
+
+#: includes/CustMainScripts.php:647
+msgid "No changes selected for execution!"
+msgstr "Не выбрано ни одной замены для запуска!"
+
+#: includes/CustMainScripts.php:649
+msgid "You are going to execute"
+msgstr "Вы собираетесь запустить"
+
+#: includes/CustMainScripts.php:649 includes/CustMainScripts.php:1065
+msgid "changes"
+msgstr "изменений"
+
+#: includes/CustMainScripts.php:871
+msgid "No changes selected for export"
+msgstr "Не выбраны изменения для экспорта"
+
+#: includes/CustMainScripts.php:880
+msgid "Export has been finished!"
+msgstr "Экспорт завершен!"
+
+#: includes/CustMainScripts.php:882
+msgid "Unable to export selected items"
+msgstr "Невозможно экспортировать выбранные элементы"
+
+#: includes/CustMainScripts.php:969
+msgid "Logs have been prepared!"
+msgstr "Лог успешно подготовлен!"
+
+#: includes/CustMainScripts.php:971
+msgid "No log records found for stated period"
+msgstr "Не найдено записей лога за указанный период"
+
+#: includes/CustMainScripts.php:985
+msgid "Customizations imported successfully!"
+msgstr "Кастомизации успешно импортированы!"
+
+#: includes/CustMainScripts.php:1063 includes/CustMainScripts.php:1102
+msgid "No changes selected for autorun!"
+msgstr "Не выбрано изменений для настройки автозапуска!"
+
+#: includes/CustMainScripts.php:1065
+msgid "You are going to set autorun for"
+msgstr "Вы собираетесь настроить автозапуск для"
+
+#: includes/CustMainScripts.php:1121
+msgid "Autorun settings applied successfully"
+msgstr "Настройки автозапуска успешно применены"
+
+#: includes/CustMainScripts.php:1126
+msgid "An error occured while saving autorun settings"
+msgstr "Возникла ошибка при сохранении настроек автозапуска"
+
+#: includes/CustMainAjax.php:108
+msgid "No matches found"
+msgstr "Не найдено совпадений"
+
+#: includes/CustMainAjax.php:163 includes/CustMainAjax.php:164
+#: includes/CustMainAjax.php:165
+msgid "Original is not saved"
+msgstr "Оригинал не был сохранен"
+
+#: includes/CustMainAjax.php:163 includes/CustMainAjax.php:175
+#: includes/CustMainAjax.php:186 includes/CustMainAjax.php:197
+#: includes/CustMainAjax.php:208 includes/CustMainAjax.php:219
+#: includes/CustMainAjax.php:230 includes/CustMainAjax.php:241
+#: includes/CustMainAjax.php:253 includes/CustMainAjax.php:269
+#: includes/CustMainAjax.php:281
+msgid "Database error"
+msgstr "Ошибка базы данных"
+
+#: includes/CustMainAjax.php:164 includes/CustMainAjax.php:176
+msgid "Cannot find the change you are editing in the database"
+msgstr ""
+"Не получается найти в базе данных изменение, которое Вы хотите изменить"
+
+#: includes/CustMainAjax.php:165 includes/CustMainAjax.php:177
+#: includes/CustMainAjax.php:188 includes/CustMainAjax.php:199
+#: includes/CustMainAjax.php:210 includes/CustMainAjax.php:221
+#: includes/CustMainAjax.php:232 includes/CustMainAjax.php:243
+#: includes/CustMainAjax.php:255 includes/CustMainAjax.php:271
+#: includes/CustMainAjax.php:283
+msgid "Unknown error"
+msgstr "Неизвестная ошибка"
+
+#: includes/CustMainAjax.php:175 includes/CustMainAjax.php:176
+#: includes/CustMainAjax.php:177
+msgid "Replacement is not saved"
+msgstr "Замена не была сохранена"
+
+#: includes/CustMainAjax.php:186 includes/CustMainAjax.php:187
+#: includes/CustMainAjax.php:188
+msgid "Group is not deleted"
+msgstr "Группа не удалена"
+
+#: includes/CustMainAjax.php:187
+msgid "Cannot find the group you are trying to delete in the database"
+msgstr "Не получается найти в базе данных группу, которую Вы хотите удалить"
+
+#: includes/CustMainAjax.php:197 includes/CustMainAjax.php:198
+#: includes/CustMainAjax.php:199
+msgid "Group is not restored"
+msgstr "Группа не восстановлена"
+
+#: includes/CustMainAjax.php:198
+msgid "Cannot find the group you are trying to restore in the database"
+msgstr ""
+"Не получается найти в базе данных группу, которую Вы хотите восстановить"
+
+#: includes/CustMainAjax.php:208 includes/CustMainAjax.php:209
+#: includes/CustMainAjax.php:210
+msgid "File is not deleted"
+msgstr "Файл не был удален"
+
+#: includes/CustMainAjax.php:209
+msgid "Cannot find the file you are trying to delete in the database"
+msgstr "Не получается найти в базе данных файл, который Вы хотите удалить"
+
+#: includes/CustMainAjax.php:219 includes/CustMainAjax.php:220
+#: includes/CustMainAjax.php:221
+msgid "File is not restored"
+msgstr "Файл не был восстановлен"
+
+#: includes/CustMainAjax.php:220
+msgid "Cannot find the file you are trying to restore in the database"
+msgstr "Не получается найти в базе данных файл, который Вы хотите восстановить"
+
+#: includes/CustMainAjax.php:230 includes/CustMainAjax.php:231
+#: includes/CustMainAjax.php:232
+msgid "Change is not deleted"
+msgstr "Изменение не удалено"
+
+#: includes/CustMainAjax.php:231
+msgid "Cannot find the change you are trying to delete in the database"
+msgstr "Не получается найти в базе данных изменение, которое Вы хотите удалить"
+
+#: includes/CustMainAjax.php:241 includes/CustMainAjax.php:242
+#: includes/CustMainAjax.php:243
+msgid "Change is not restored"
+msgstr "Изменение не восстановлено"
+
+#: includes/CustMainAjax.php:242
+msgid "Cannot find the change you are trying to restore in the database"
+msgstr ""
+"Не получается найти в базе данных изменение, которое Вы хотите восстановить"
+
+#: includes/CustMainAjax.php:253 includes/CustMainAjax.php:254
+#: includes/CustMainAjax.php:255 includes/CustMainAjax.php:281
+#: includes/CustMainAjax.php:282 includes/CustMainAjax.php:283
+msgid "Title is not changed"
+msgstr "Название не было изменено"
+
+#: includes/CustMainAjax.php:254
+msgid "Cannot find the group you are trying to rename in the database"
+msgstr ""
+"Не получается найти в базе данных группу, которую Вы хотите переименовать"
+
+#: includes/CustMainAjax.php:264 includes/CustMainAjax.php:269
+#: includes/CustMainAjax.php:270 includes/CustMainAjax.php:271
+msgid "File is not saved"
+msgstr "Файл не был сохранен"
+
+#: includes/CustMainAjax.php:264
+msgid "Cannot find the file in the filesystem"
+msgstr "Не получается найти файл на сервере"
+
+#: includes/CustMainAjax.php:270
+msgid "Cannot find the file you are trying to edit in the database"
+msgstr "Не получается найти в базе данных файл, который Вы хотите изменить"
+
+#: includes/CustMainAjax.php:282
+msgid "Cannot find the change you are trying to rename in the database"
+msgstr ""
+"Не получается найти в базе данных изменение, которое Вы хотите переименовать"
+
+#: includes/CustMainAjax.php:289 includes/CustMainAjax.php:291
+msgid "Unable to import"
+msgstr "Невозможно экспортировать"
+
+#: includes/CustMainAjax.php:289 includes/CustMainAjax.php:291
+msgid "Export code is corrupted"
+msgstr "Код экспорта поврежден"
+
+#: includes/CustMainAjax.php:358 includes/CustMainAjax.php:365
+#: includes/CustMainAjax.php:380 includes/CustMainAjax.php:395
+#: includes/CustMainAjax.php:406 includes/CustMainAjax.php:412
+#: includes/CustMainAjax.php:421 includes/CustMainAjax.php:427
+#: includes/CustMainAjax.php:436 includes/CustMainAjax.php:440
+#: includes/CustMainAjax.php:457 includes/CustMainAjax.php:463
+msgid "Unknown"
+msgstr "Неизвестно"
+
+#: includes/CustMainAjax.php:358 includes/CustMainAjax.php:359
+#: includes/CustMainAjax.php:457 includes/CustMainAjax.php:458
+msgid "File not found in the database"
+msgstr "Файл не найден в базе данных"
+
+#: includes/CustMainAjax.php:365 includes/CustMainAjax.php:366
+#: includes/CustMainAjax.php:463 includes/CustMainAjax.php:464
+msgid "File name not provided"
+msgstr "Имя файла отсутствует"
+
+#: includes/CustMainAjax.php:373 includes/CustMainAjax.php:374
+#: includes/CustMainAjax.php:470 includes/CustMainAjax.php:471
+msgid "File not found in the filesystem"
+msgstr "Файл не найден на сервере"
+
+#: includes/CustMainAjax.php:380 includes/CustMainAjax.php:381
+#: includes/CustMainAjax.php:394 includes/CustMainAjax.php:395
+msgid "Change not found in the database"
+msgstr "Изменение не найдено в базе данных"
+
+#: includes/CustMainAjax.php:405 includes/CustMainAjax.php:406
+msgid "The replacement code is already found in the file"
+msgstr "Код замены уже присутствует в файле"
+
+#: includes/CustMainAjax.php:411 includes/CustMainAjax.php:412
+msgid "The original code is not found in the file"
+msgstr "Код оригинала не найден в файле"
+
+#: includes/CustMainAjax.php:421 includes/CustMainAjax.php:422
+#: includes/CustMainAjax.php:427 includes/CustMainAjax.php:428
+msgid "Unable to create a file backup"
+msgstr "Невозможно создать резервную копию файла"
+
+#: includes/CustMainAjax.php:440 includes/CustMainAjax.php:441
+#: includes/CustMainAjax.php:483 includes/CustMainAjax.php:484
+msgid "Unable to write to the file"
+msgstr "Невозможно произвести запись в файл"
+
+#: includes/CustMainAjax.php:458 includes/CustMainAjax.php:464
+#: includes/CustMainAjax.php:471 includes/CustMainAjax.php:476
+msgid "File is not reverted"
+msgstr "Откат файла не выполнен"
+
+#: includes/CustMainAjax.php:475
+msgid "File backup not found!"
+msgstr "Резервная копия файла не найдена!"
+
+#: includes/CustMainAjax.php:476
+msgid "File backup not found"
+msgstr "Резервная копия файла не найдена"
+
+#: includes/CustMainAjax.php:511
+msgid "No log records found"
+msgstr "Не найдено записей лога"
+
+#: includes/CustMainAjax.php:526
+msgid "Manual run"
+msgstr "Запуск вручную"
+
+#: includes/CustMainAjax.php:526
+msgid "Autorun"
+msgstr "Автозапуск"
+
+#: includes/CustMainAjax.php:529 includes/CustMainAjax.php:536
+msgid "Successful"
+msgstr "Успешно"
+
+#: includes/CustMainAjax.php:529 includes/CustMainAjax.php:536
+msgid "No replacements"
+msgstr "Без замен"
+
+#: includes/CustMainAjax.php:529 includes/CustMainAjax.php:536
+msgid "Failed"
+msgstr "Ошибка"
+
+#. Name of the plugin
+msgid "CustMain"
+msgstr "CustMain"
+
+#. Description of the plugin
+msgid ""
+"Easily maintain customizations of installed themes, plugins and WordPress "
+"core."
+msgstr ""
+"С легкостью поддерживайте свои кастомизации в установленных темах, плагинах "
+"и ядре WordPress."
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://inyh.ru/"
+msgstr "https://inyh.ru/"
+
+#. Author of the plugin
+msgid "Inyh - IT & Design Solutions"
+msgstr "Inyh - IT & Design Solutions"

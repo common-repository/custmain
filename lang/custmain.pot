@@ -1,0 +1,527 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CustMain\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-09-21 10:54+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: custmain.php:85
+msgid "cm-backup/ with 0755 rights."
+msgstr ""
+
+#: custmain.php:139
+msgid "Customizations"
+msgstr ""
+
+#: custmain.php:140
+msgid "Logs"
+msgstr ""
+
+#: custmain.php:141 custmain.php:187
+msgid "Import"
+msgstr ""
+
+#: custmain.php:150
+msgid "Export selected"
+msgstr ""
+
+#: custmain.php:151 custmain.php:261 custmain.php:282 custmain.php:301
+msgid "Autorun settings"
+msgstr ""
+
+#: custmain.php:152
+msgid "Run selected"
+msgstr ""
+
+#: custmain.php:153
+msgid "Delete selected"
+msgstr ""
+
+#: custmain.php:156
+msgid "Add new group"
+msgstr ""
+
+#: custmain.php:162 includes/CustMainAjax.php:49 includes/CustMainAjax.php:327
+msgid "Uncategorized"
+msgstr ""
+
+#: custmain.php:173
+msgid "Download logs"
+msgstr ""
+
+#: custmain.php:177
+msgid "Type"
+msgstr ""
+
+#: custmain.php:178
+msgid "Date & Time"
+msgstr ""
+
+#: custmain.php:179
+msgid "File name"
+msgstr ""
+
+#: custmain.php:180
+msgid "Status"
+msgstr ""
+
+#: custmain.php:185
+msgid "Paste the code from the CustMain export file"
+msgstr ""
+
+#: custmain.php:193 custmain.php:216
+msgid "Cancel"
+msgstr ""
+
+#: custmain.php:194
+msgid "Run"
+msgstr ""
+
+#: custmain.php:202
+msgid "Finish"
+msgstr ""
+
+#: custmain.php:206
+msgid "Autorun type"
+msgstr ""
+
+#: custmain.php:208
+msgid "On plugin update"
+msgstr ""
+
+#: custmain.php:209
+msgid "On theme update"
+msgstr ""
+
+#: custmain.php:210
+msgid "By task scheduler"
+msgstr ""
+
+#: custmain.php:212
+msgid "Select desired"
+msgstr ""
+
+#: custmain.php:217
+msgid "Set"
+msgstr ""
+
+#: custmain.php:229
+msgid "Group"
+msgstr ""
+
+#: custmain.php:239
+msgid "File"
+msgstr ""
+
+#: custmain.php:249
+msgid "Change"
+msgstr ""
+
+#: custmain.php:250
+msgid "Original"
+msgstr ""
+
+#: custmain.php:251
+msgid "Replacement"
+msgstr ""
+
+#: custmain.php:259
+msgid "Add new file"
+msgstr ""
+
+#: custmain.php:260
+msgid "Export this group"
+msgstr ""
+
+#: custmain.php:262
+msgid "Run this group"
+msgstr ""
+
+#: custmain.php:263
+msgid "Delete this group"
+msgstr ""
+
+#: custmain.php:271
+msgid "Group has been deleted"
+msgstr ""
+
+#: custmain.php:271 custmain.php:292 custmain.php:311
+msgid "Restore back"
+msgstr ""
+
+#: custmain.php:279
+msgid "Add new change"
+msgstr ""
+
+#: custmain.php:280
+msgid "Revert this file"
+msgstr ""
+
+#: custmain.php:281
+msgid "Export this file"
+msgstr ""
+
+#: custmain.php:283
+msgid "Run this file"
+msgstr ""
+
+#: custmain.php:284
+msgid "Delete this file"
+msgstr ""
+
+#: custmain.php:292
+msgid "File has been deleted"
+msgstr ""
+
+#: custmain.php:300
+msgid "Export this change"
+msgstr ""
+
+#: custmain.php:302
+msgid "Run this change"
+msgstr ""
+
+#: custmain.php:303
+msgid "Delete this change"
+msgstr ""
+
+#: custmain.php:311
+msgid "Change has been deleted"
+msgstr ""
+
+#: includes/CustMainScripts.php:158
+msgid "Group has been deleted!"
+msgstr ""
+
+#: includes/CustMainScripts.php:179
+msgid "Group has been restored!"
+msgstr ""
+
+#: includes/CustMainScripts.php:204
+msgid "File has been deleted!"
+msgstr ""
+
+#: includes/CustMainScripts.php:225
+msgid "File has been restored!"
+msgstr ""
+
+#: includes/CustMainScripts.php:250
+msgid "Change has been deleted!"
+msgstr ""
+
+#: includes/CustMainScripts.php:271
+msgid "Change has been restored!"
+msgstr ""
+
+#: includes/CustMainScripts.php:292
+msgid "Original has been saved!"
+msgstr ""
+
+#: includes/CustMainScripts.php:313
+msgid "Replacement has been saved!"
+msgstr ""
+
+#: includes/CustMainScripts.php:354 includes/CustMainScripts.php:403
+msgid "Title has been saved!"
+msgstr ""
+
+#: includes/CustMainScripts.php:379
+msgid "File has been saved!"
+msgstr ""
+
+#: includes/CustMainScripts.php:471
+msgid "File has been reverted!"
+msgstr ""
+
+#: includes/CustMainScripts.php:580
+msgid "Changes selected"
+msgstr ""
+
+#: includes/CustMainScripts.php:647
+msgid "No changes selected for execution!"
+msgstr ""
+
+#: includes/CustMainScripts.php:649
+msgid "You are going to execute"
+msgstr ""
+
+#: includes/CustMainScripts.php:649 includes/CustMainScripts.php:1065
+msgid "changes"
+msgstr ""
+
+#: includes/CustMainScripts.php:871
+msgid "No changes selected for export"
+msgstr ""
+
+#: includes/CustMainScripts.php:880
+msgid "Export has been finished!"
+msgstr ""
+
+#: includes/CustMainScripts.php:882
+msgid "Unable to export selected items"
+msgstr ""
+
+#: includes/CustMainScripts.php:969
+msgid "Logs have been prepared!"
+msgstr ""
+
+#: includes/CustMainScripts.php:971
+msgid "No log records found for stated period"
+msgstr ""
+
+#: includes/CustMainScripts.php:985
+msgid "Customizations imported successfully!"
+msgstr ""
+
+#: includes/CustMainScripts.php:1063 includes/CustMainScripts.php:1102
+msgid "No changes selected for autorun!"
+msgstr ""
+
+#: includes/CustMainScripts.php:1065
+msgid "You are going to set autorun for"
+msgstr ""
+
+#: includes/CustMainScripts.php:1121
+msgid "Autorun settings applied successfully"
+msgstr ""
+
+#: includes/CustMainScripts.php:1126
+msgid "An error occured while saving autorun settings"
+msgstr ""
+
+#: includes/CustMainAjax.php:108
+msgid "No matches found"
+msgstr ""
+
+#: includes/CustMainAjax.php:163 includes/CustMainAjax.php:164
+#: includes/CustMainAjax.php:165
+msgid "Original is not saved"
+msgstr ""
+
+#: includes/CustMainAjax.php:163 includes/CustMainAjax.php:175
+#: includes/CustMainAjax.php:186 includes/CustMainAjax.php:197
+#: includes/CustMainAjax.php:208 includes/CustMainAjax.php:219
+#: includes/CustMainAjax.php:230 includes/CustMainAjax.php:241
+#: includes/CustMainAjax.php:253 includes/CustMainAjax.php:269
+#: includes/CustMainAjax.php:281
+msgid "Database error"
+msgstr ""
+
+#: includes/CustMainAjax.php:164 includes/CustMainAjax.php:176
+msgid "Cannot find the change you are editing in the database"
+msgstr ""
+
+#: includes/CustMainAjax.php:165 includes/CustMainAjax.php:177
+#: includes/CustMainAjax.php:188 includes/CustMainAjax.php:199
+#: includes/CustMainAjax.php:210 includes/CustMainAjax.php:221
+#: includes/CustMainAjax.php:232 includes/CustMainAjax.php:243
+#: includes/CustMainAjax.php:255 includes/CustMainAjax.php:271
+#: includes/CustMainAjax.php:283
+msgid "Unknown error"
+msgstr ""
+
+#: includes/CustMainAjax.php:175 includes/CustMainAjax.php:176
+#: includes/CustMainAjax.php:177
+msgid "Replacement is not saved"
+msgstr ""
+
+#: includes/CustMainAjax.php:186 includes/CustMainAjax.php:187
+#: includes/CustMainAjax.php:188
+msgid "Group is not deleted"
+msgstr ""
+
+#: includes/CustMainAjax.php:187
+msgid "Cannot find the group you are trying to delete in the database"
+msgstr ""
+
+#: includes/CustMainAjax.php:197 includes/CustMainAjax.php:198
+#: includes/CustMainAjax.php:199
+msgid "Group is not restored"
+msgstr ""
+
+#: includes/CustMainAjax.php:198
+msgid "Cannot find the group you are trying to restore in the database"
+msgstr ""
+
+#: includes/CustMainAjax.php:208 includes/CustMainAjax.php:209
+#: includes/CustMainAjax.php:210
+msgid "File is not deleted"
+msgstr ""
+
+#: includes/CustMainAjax.php:209
+msgid "Cannot find the file you are trying to delete in the database"
+msgstr ""
+
+#: includes/CustMainAjax.php:219 includes/CustMainAjax.php:220
+#: includes/CustMainAjax.php:221
+msgid "File is not restored"
+msgstr ""
+
+#: includes/CustMainAjax.php:220
+msgid "Cannot find the file you are trying to restore in the database"
+msgstr ""
+
+#: includes/CustMainAjax.php:230 includes/CustMainAjax.php:231
+#: includes/CustMainAjax.php:232
+msgid "Change is not deleted"
+msgstr ""
+
+#: includes/CustMainAjax.php:231
+msgid "Cannot find the change you are trying to delete in the database"
+msgstr ""
+
+#: includes/CustMainAjax.php:241 includes/CustMainAjax.php:242
+#: includes/CustMainAjax.php:243
+msgid "Change is not restored"
+msgstr ""
+
+#: includes/CustMainAjax.php:242
+msgid "Cannot find the change you are trying to restore in the database"
+msgstr ""
+
+#: includes/CustMainAjax.php:253 includes/CustMainAjax.php:254
+#: includes/CustMainAjax.php:255 includes/CustMainAjax.php:281
+#: includes/CustMainAjax.php:282 includes/CustMainAjax.php:283
+msgid "Title is not changed"
+msgstr ""
+
+#: includes/CustMainAjax.php:254
+msgid "Cannot find the group you are trying to rename in the database"
+msgstr ""
+
+#: includes/CustMainAjax.php:264 includes/CustMainAjax.php:269
+#: includes/CustMainAjax.php:270 includes/CustMainAjax.php:271
+msgid "File is not saved"
+msgstr ""
+
+#: includes/CustMainAjax.php:264
+msgid "Cannot find the file in the filesystem"
+msgstr ""
+
+#: includes/CustMainAjax.php:270
+msgid "Cannot find the file you are trying to edit in the database"
+msgstr ""
+
+#: includes/CustMainAjax.php:282
+msgid "Cannot find the change you are trying to rename in the database"
+msgstr ""
+
+#: includes/CustMainAjax.php:289 includes/CustMainAjax.php:291
+msgid "Unable to import"
+msgstr ""
+
+#: includes/CustMainAjax.php:289 includes/CustMainAjax.php:291
+msgid "Export code is corrupted"
+msgstr ""
+
+#: includes/CustMainAjax.php:358 includes/CustMainAjax.php:365
+#: includes/CustMainAjax.php:380 includes/CustMainAjax.php:395
+#: includes/CustMainAjax.php:406 includes/CustMainAjax.php:412
+#: includes/CustMainAjax.php:421 includes/CustMainAjax.php:427
+#: includes/CustMainAjax.php:436 includes/CustMainAjax.php:440
+#: includes/CustMainAjax.php:457 includes/CustMainAjax.php:463
+msgid "Unknown"
+msgstr ""
+
+#: includes/CustMainAjax.php:358 includes/CustMainAjax.php:359
+#: includes/CustMainAjax.php:457 includes/CustMainAjax.php:458
+msgid "File not found in the database"
+msgstr ""
+
+#: includes/CustMainAjax.php:365 includes/CustMainAjax.php:366
+#: includes/CustMainAjax.php:463 includes/CustMainAjax.php:464
+msgid "File name not provided"
+msgstr ""
+
+#: includes/CustMainAjax.php:373 includes/CustMainAjax.php:374
+#: includes/CustMainAjax.php:470 includes/CustMainAjax.php:471
+msgid "File not found in the filesystem"
+msgstr ""
+
+#: includes/CustMainAjax.php:380 includes/CustMainAjax.php:381
+#: includes/CustMainAjax.php:394 includes/CustMainAjax.php:395
+msgid "Change not found in the database"
+msgstr ""
+
+#: includes/CustMainAjax.php:405 includes/CustMainAjax.php:406
+msgid "The replacement code is already found in the file"
+msgstr ""
+
+#: includes/CustMainAjax.php:411 includes/CustMainAjax.php:412
+msgid "The original code is not found in the file"
+msgstr ""
+
+#: includes/CustMainAjax.php:421 includes/CustMainAjax.php:422
+#: includes/CustMainAjax.php:427 includes/CustMainAjax.php:428
+msgid "Unable to create a file backup"
+msgstr ""
+
+#: includes/CustMainAjax.php:440 includes/CustMainAjax.php:441
+#: includes/CustMainAjax.php:483 includes/CustMainAjax.php:484
+msgid "Unable to write to the file"
+msgstr ""
+
+#: includes/CustMainAjax.php:458 includes/CustMainAjax.php:464
+#: includes/CustMainAjax.php:471 includes/CustMainAjax.php:476
+msgid "File is not reverted"
+msgstr ""
+
+#: includes/CustMainAjax.php:475
+msgid "File backup not found!"
+msgstr ""
+
+#: includes/CustMainAjax.php:476
+msgid "File backup not found"
+msgstr ""
+
+#: includes/CustMainAjax.php:511
+msgid "No log records found"
+msgstr ""
+
+#: includes/CustMainAjax.php:526
+msgid "Manual run"
+msgstr ""
+
+#: includes/CustMainAjax.php:526
+msgid "Autorun"
+msgstr ""
+
+#: includes/CustMainAjax.php:529 includes/CustMainAjax.php:536
+msgid "Successful"
+msgstr ""
+
+#: includes/CustMainAjax.php:529 includes/CustMainAjax.php:536
+msgid "No replacements"
+msgstr ""
+
+#: includes/CustMainAjax.php:529 includes/CustMainAjax.php:536
+msgid "Failed"
+msgstr ""
+
+#. Name of the plugin
+msgid "CustMain"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Easily maintain customizations of installed themes, plugins and WordPress "
+"core."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://inyh.ru/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Inyh - IT & Design Solutions"
+msgstr ""
